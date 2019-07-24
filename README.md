@@ -1,2 +1,2 @@
-[Живая страница](https://luxplanjay.github.io/goit-js-hw-12-weather-app/) после
+[Живая страница](https://github.com/oBorschev/goit-js-hw-12-weather-app/) после
 деплоя через `npm run deploy`.
